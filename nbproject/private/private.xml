@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/myApp/src/assets/.gitkeep</file>
+            <file>file:/home/myApp/src/environments/environment.prod.ts</file>
+            <file>file:/home/myApp/package.json</file>
+            <file>file:/home/myApp/src/tsconfig.app.json</file>
+            <file>file:/home/myApp/src/index.html</file>
+            <file>file:/home/myApp/src/app/heros/heros.component.html</file>
+            <file>file:/home/myApp/e2e/tsconfig.e2e.json</file>
+            <file>file:/home/myApp/src/app/app.component.ts</file>
+            <file>file:/home/myApp/src/app/app.module.ts</file>
+            <file>file:/home/myApp/src/app/heros/heros.component.ts</file>
+            <file>file:/home/myApp/src/main.ts</file>
+            <file>file:/home/myApp/e2e/app.po.ts</file>
+            <file>file:/home/myApp/src/app/app.component.html</file>
+            <file>file:/home/myApp/karma.conf.js</file>
+            <file>file:/home/myApp/src/app/app.component.css</file>
+        </group>
+    </open-files>
+</project-private>
