@@ -8,5 +8,5 @@ export class HeroService {
   getHeroes(): Hero[] {
   return HEROES;
 }
-
+ 
 }
